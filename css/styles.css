@@ -1,0 +1,12 @@
+.bg-golden {
+    background-color: #FFD700 !important; /* Golden color */
+  }
+  
+  .navbar .nav-link {
+    color: #fff; /* White text for visibility */
+  }
+  
+  .navbar .nav-link:hover {
+    color: #f1f1f1; /* Slightly lighter on hover */
+  }
+  
